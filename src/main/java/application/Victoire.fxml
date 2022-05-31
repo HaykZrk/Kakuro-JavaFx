@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" stylesheets="@../../resources/CSS/application.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ClassementController">
+   <children>
+      <Label layoutX="190.0" layoutY="25.0" text="Victoire">
+         <font>
+            <Font name="Bauhaus 93" size="64.0" />
+         </font>
+      </Label>
+      <Button layoutX="237.0" layoutY="98.0" mnemonicParsing="false" onAction="#choixGrille" text="Retour à la sélection">
+         <font>
+            <Font name="Bauhaus 93" size="12.0" />
+         </font>
+      </Button>
+      <ListView fx:id="listClassementWhatLevel" layoutX="155.0" layoutY="176.0" prefHeight="204.0" prefWidth="292.0" />
+      <Label fx:id="whatLevelLabel" layoutX="273.0" layoutY="140.0" text="Label">
+         <font>
+            <Font name="Bauhaus 93" size="24.0" />
+         </font></Label>
+      <ImageView fitHeight="113.0" fitWidth="92.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../resources/Images/TutorielMenuRankImage.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
