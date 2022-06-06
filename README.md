@@ -8,7 +8,7 @@ Important : Le jeu est supporté uniquement sur windows. Pour une future amélio
 - Version Linux : COMING SOON ! 
 - Version MacOS : COMING SOON !
 
-## Dans le cas d'une impossibilitée de compilation / d'exécution du jeu, une vidéo de présentation est disponible !
+### Dans le cas d'une impossibilitée de compilation / d'exécution du jeu, une vidéo de présentation est disponible !
 
 
 ## Présentation
