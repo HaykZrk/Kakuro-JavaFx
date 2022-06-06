@@ -9,15 +9,17 @@ Important : Le jeu est supporté que sur windows. Pour une future amélioration,
 - Version MacOS : COMING SOON !
 
 ## Présentation
-### Figure 1 : Menu du jeu
+### Vidéo de présentation
+![VidéoPrésentation!](Screenshot/PrésentationKakuro.mp4)
+#### Figure 1 : Menu du jeu
 ![Menu!](Screenshot/Menu.PNG)
-### Figure 2 : Choix de la grille
+#### Figure 2 : Choix de la grille
 ![ChoixGrille!](Screenshot/ChoixGrille.PNG)
-### Figure 3 : Interface du jeu Kakuro
+#### Figure 3 : Interface du jeu Kakuro
 ![Jeu!](Screenshot/Jeu.PNG)
-### Figure 4 : Tutoriel du jeu
+#### Figure 4 : Tutoriel du jeu
 ![Tutoriel!](Screenshot/Tutoriel.PNG)
-### Figure 5 : Tableaux des scores des joueurs
+#### Figure 5 : Tableaux des scores des joueurs
 ![Classement!](Screenshot/Classement.PNG)
-### Figure 6 : Options du jeu
+#### Figure 6 : Options du jeu
 ![Options!](Screenshot/Options.PNG)
