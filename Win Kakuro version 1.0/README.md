@@ -12,3 +12,6 @@
 - Solution 4 : Installer le jeu sur votre machine avec KakuroSetup.exe. (Min JRE : 10, Max JRE : 16)
 
 ## Résolution bug
+
+### Problème de dimension ? 
+#### Mettre la mise à l'echelle et disposition dans les paramètres Windows à 100% pour eviter les débordements graphiques.
