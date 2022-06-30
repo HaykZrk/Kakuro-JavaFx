@@ -1,5 +1,10 @@
 # KAKURO PROJECT
 
+## Description 
+Projet destiné à l'UE Programmation orientée objet 2 à l'UFR Mathématique-Informatique Strasbourg.
+Langage Java -> Utilisation d'interface graphique.
+
+
 ## Compilation / Exécution
 
 Important : Le jeu est supporté uniquement sur windows. Pour une future amélioration, nous élaborerons le jeu en cross-platform.
@@ -24,3 +29,6 @@ Important : Le jeu est supporté uniquement sur windows. Pour une future amélio
 ![Classement!](Screenshot/Classement.PNG)
 #### Figure 6 : Options du jeu
 ![Options!](Screenshot/Options.PNG)
+
+## Auteurs
+Hayk ZARIKIAN et Alexandre DUBERT
