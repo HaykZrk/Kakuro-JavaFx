@@ -17,4 +17,4 @@
 #### Mettre la mise à l'echelle et disposition dans les paramètres Windows à 100% pour eviter les débordements graphiques.
 
 ### Problème de police d'écriture ?
-#### La police utilisée dans l'ensemble du jeu est Bauhaus 93
+#### La police utilisée dans l'ensemble du jeu est Bauhaus 93.
