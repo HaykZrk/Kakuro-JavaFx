@@ -5,7 +5,7 @@ Projet destiné à l'UE Programmation orientée objet 2 à l'UFR Mathématique-I
 Langage Java -> Utilisation d'interface graphique.
 
 
-## Compilation / Exécution
+## Information
 
 Important : Le jeu est supporté uniquement sur windows. Pour une future amélioration, nous élaborerons le jeu en cross-platform.
 
